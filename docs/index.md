@@ -1,6 +1,9 @@
 Carolyn Yeo
+
 August 22, 2020
+
 Foundations of Database
+
 Assignment 07
 
 About Functions
