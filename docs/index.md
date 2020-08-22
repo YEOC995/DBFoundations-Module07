@@ -7,7 +7,7 @@ About Functions
 ----------------
 
 
-##Introduction
+## Introduction
 
 Functions in SQL have various purposes that are useful to the every-day programmer. 
 They can return values or tables. This paper will focus on user defined functions and the different types they can be.
